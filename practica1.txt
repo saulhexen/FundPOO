@@ -1,9 +1,9 @@
 /**
-* UPTx - Fundamentos de programaci¢n OO
+* UPTx - Fundamentos de programacion OO
 * Practica No. 1     Grupo: 5I
 * Objetivo: Mi primer programa
-* Integrantes: Sa£l Olaf Loaiza Mel‚ndez
-* Modificaci¢n: 08/ene/2024
+* Integrantes: Saul Olaf Loaiza Melendez
+* Modificacion: 08/ene/2024
 */
 public class Main {
      public static main(String[] args) {
